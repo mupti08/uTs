@@ -27,3 +27,5 @@ Teknologi Utama
 - JavaScript
 - PHP (Native)
 - MySQL
+
+<img width="1914" height="823" alt="image" src="https://github.com/user-attachments/assets/147bb850-086f-4f11-8394-1fbcc6d9e376" />
