@@ -8,4 +8,4 @@ Fitur:
 
 - Create, Read, Update, Delete data mahasiswa.
 - Upload foto otomatis rename (`time()` / `uniqid()`).
-- Validasi form frontend (JavaScript) dan backend (PHP).
+- Validasi form frontend (JavaScript) dan backend (PHP)....
